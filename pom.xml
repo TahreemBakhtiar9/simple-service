@@ -60,6 +60,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>hello<finalName>
 	</build>
 
 </project>
