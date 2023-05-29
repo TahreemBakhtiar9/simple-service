@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.emeritus</groupId>
 	<artifactId>simple-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>hello</version>
 	<name>simple-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
